@@ -31,13 +31,14 @@ a {
     color: rgb(215, 193, 153);
 }
 
-div button{
+#inicio button{
     text-align: center;
     color: white;
     background-color: blue;
     cursor: pointer;
     border-radius: 20px;
     justify-content: center;
+    font-size: 3rem;
 }
 
 #inicio {
