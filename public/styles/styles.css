@@ -31,6 +31,15 @@ a {
     color: rgb(215, 193, 153);
 }
 
+div button{
+    text-align: center;
+    color: white;
+    background-color: blue;
+    cursor: pointer;
+    border-radius: 20px;
+    justify-content: center;
+}
+
 #inicio {
     background-image: url(../assets/images/portada.png);
     background-repeat: no-repeat;
